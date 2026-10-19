@@ -1,0 +1,10 @@
+# Security contact for every site under https://sarathsp06.github.io/
+# (sparrow, testhooks, herdrweb, janusfs, exomlgen, gamesforkids, ...).
+# For Sparrow you can also open a private advisory:
+#   https://github.com/sarathsp06/sparrow/security/advisories/new
+# Sparrow's disclosure policy:
+#   https://github.com/sarathsp06/sparrow/blob/main/SECURITY.md
+Contact: mailto:sarath.sp06@gmail.com
+Expires: 2027-10-01T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://sarathsp06.github.io/.well-known/security.txt
