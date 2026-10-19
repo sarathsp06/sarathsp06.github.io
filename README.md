@@ -78,10 +78,10 @@ This is the `security.txt` generated for this repository:
 ```text
 # Security contact for https://sarathsp06.github.io/ and every project site under it.
 # Generated from site.conf; edit that, not this file.
-# Sparrow also takes private advisories: https://github.com/sarathsp06/sparrow/security/advisories/new
-# Sparrow's disclosure policy: https://github.com/sarathsp06/sparrow/blob/main/SECURITY.md
+# Please name the project and version affected in your report.
+# Projects with GitHub private vulnerability reporting enabled also accept reports at https://github.com/sarathsp06/PROJECT/security/advisories/new
 Contact: mailto:sarath.sp06@gmail.com
-Expires: 2027-04-17T11:47:44Z
+Expires: 2027-04-17T13:03:34Z
 Preferred-Languages: en
 Canonical: https://sarathsp06.github.io/.well-known/security.txt
 ```
